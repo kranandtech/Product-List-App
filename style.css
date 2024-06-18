@@ -30,6 +30,3 @@ nav #search-input{
     justify-content: space-between;
     margin: 0 auto;
 }
-#root:hover{
-    cursor:pointer;
-}
